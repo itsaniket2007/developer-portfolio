@@ -117,7 +117,7 @@ Run locally by opening `index.html` in your browser.
 ## 📬 Connect With Me
 
 * 📧 Email: **[itsaniket2007@gmail.com](mailto:itsaniket2007@gmail.com)**
-* 💼 LinkedIn: *(Add your LinkedIn URL here)*
+* 💼 LinkedIn: https://www.linkedin.com/in/aniket-kumar-pathak/
 * 🐙 GitHub: https://github.com/itsaniket2007
 
 ---
@@ -127,6 +127,4 @@ Run locally by opening `index.html` in your browser.
 If you like this project, consider giving it a ⭐ on GitHub. It motivates me to build more amazing projects!
 
 ---
-
-Made with ❤️ by **Aniket Kumar Pathak**
 
