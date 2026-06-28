@@ -3,6 +3,7 @@
 A modern, responsive personal portfolio website showcasing my projects, technical skills, and journey as a **Software Engineer** and **AI/ML Enthusiast**.
 
 ![Portfolio Preview](./assets/preview.png)
+![Portfolio Preview1](./assets/preview1.png)
 
 ## 👨‍💻 About Me
 
