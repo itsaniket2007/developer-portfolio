@@ -79,21 +79,6 @@ My interests include:
 * 🚀 Passionate about AI, Backend Development & Software Engineering
 
 ---
-
-## 📂 Project Structure
-
-```
-Portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-```
-
 ---
 
 ## 🚀 Getting Started
